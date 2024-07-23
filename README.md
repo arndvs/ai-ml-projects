@@ -1,6 +1,6 @@
 # AI-ML Projects for Data Professionals
 
-// add an image here
+![AI-ML Projects for Data Professionals](https://i.imgur.com/ChxXtT6.png)
 
 This repository contains projects and materials from the "AI-ML Projects for Data Professionals" course offered by PrepVector on Maven.
 
